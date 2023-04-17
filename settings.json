@@ -2,7 +2,8 @@
     "[python]": {
         "editor.bracketPairColorization.enabled": false,
         "editor.guides.bracketPairs": false,
-        "editor.tabSize": 4
+        "editor.tabSize": 4,
+        "editor.formatOnType": true
     },
     "editor.bracketPairColorization.enabled": true,
     "editor.detectIndentation": false,
